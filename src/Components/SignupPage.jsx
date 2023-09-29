@@ -1,6 +1,6 @@
 import "./Signup.css";
 import { useState } from "react";
-import logo from './assets/Logo-Instagram.png';
+import logo from '../assets/Logo-Instagram.png';
 function Signup() {
   const [login ,setLogin] = useState(true);
   function switchLogin(){

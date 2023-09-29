@@ -4,9 +4,18 @@ import Signup from "./Components/SignupPage";
 
 function App() {
   return (
+
     <>
-      <Counter />
-      <Signup/>
+    <div className="container">
+      <div>
+        <Counter />
+      </div>
+      <div>
+        <Signup/>
+      </div>
+      
+    </div>
+      
     </>
   );
 }
