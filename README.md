@@ -1,9 +1,9 @@
-# This Counter App is buils using vite-react 
+# This Counter App is build using vite-react 
  This counter app have one count display where display the counting value.
 
- And it also consist two buttom [ increment ] and [ decrement ]
+ And it also consist two button [ increment ] and [ decrement ]
 
- if you click on inrement button it increase value by one and display it .
+ if you click on increment button it increase value by one and display it .
 
  if you click on decrement button it decrease value by one and display it.
 
